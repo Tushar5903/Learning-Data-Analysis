@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Anaconda / environment-specific
+anaconda_projects/
+.virtual_documents/
+
+# Python cache (if you add .py files later)
+__pycache__/
+*.pyc
+
+# Generated/output files (regenerable from code)
+cleaned_data.json
+
+# OS junk
+.DS_Store
+Thumbs.db
